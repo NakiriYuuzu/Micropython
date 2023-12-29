@@ -1,0 +1,17 @@
+# Wemos D1 (非mini) Pin 對應到 ESP8266 的 GPIO
+# D0  = GPIO3
+# D1  = GPIO1
+# D2  = GPIO16
+# D3  = GPIO5
+# D4  = GPIO4
+# D5  = GPIO14
+# D6  = GPIO12
+# D7  = GPIO13
+# D8  = GPIO0
+# D9  = GPIO2
+# D10 = GPIO15
+# D11 = GPIO13
+# D12 = GPIO12
+# D13 = GPIO14
+# D14 = GPIO4
+# D15 = GPIO5
